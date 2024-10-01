@@ -19,7 +19,6 @@
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-  /* выше установили ограничения для секции */
   background-color: #f2f2f2;
   margin-top: 0;
   padding: 0;
@@ -30,13 +29,11 @@
   overflow: hidden;
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
   width: 568px;
 }
 
-/* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
   color: white;
@@ -48,12 +45,11 @@
   min-width: 600px;
   max-width: 756px;
   display: flex;
-  align-items: center; /* По вертикали */
+  align-items: center;
 }
 
 .title__header_text{
   margin-left: 64px;
-  z-index: 99;
 }
 
 .h1_header{
@@ -121,6 +117,9 @@
   z-index: -1;
 }
 
+.link{
+  z-index: 100;
+}
 
 
 /* ---- */
