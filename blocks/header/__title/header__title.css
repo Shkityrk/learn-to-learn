@@ -1,0 +1,6 @@
+.header__title {
+    min-width: 600px;
+    max-width: 756px;
+    display: flex;
+    align-items: center;
+}

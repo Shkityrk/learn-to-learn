@@ -1,0 +1,12 @@
+.table__element_text {
+    font-size: 18px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.2;
+}
+
+.table__element_text__theme_dark{
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}

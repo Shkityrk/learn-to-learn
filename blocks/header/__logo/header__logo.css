@@ -1,0 +1,20 @@
+
+.logo{
+  position: absolute;
+  z-index: 100;
+
+}
+
+.logo_place-holder{
+  top: 30px;
+  left: 64px;
+
+  height: 32px;
+  width: 228px;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+
+}
