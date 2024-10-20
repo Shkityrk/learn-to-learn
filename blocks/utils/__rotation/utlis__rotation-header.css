@@ -12,3 +12,7 @@
 .utils__rotation_header{
   animation: rotation 20s linear infinite;
 }
+
+.utils__rotation_kaufman{
+  animation: rotation 20s linear infinite;
+}
