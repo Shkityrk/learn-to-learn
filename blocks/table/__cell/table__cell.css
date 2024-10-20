@@ -1,0 +1,11 @@
+.table__cell {
+    width: 250px;
+    margin-bottom: 60px;
+}
+
+.table-cell_theme__dark {
+  width: 200px;
+  z-index: 15;
+  margin-bottom: 80px;
+
+}
